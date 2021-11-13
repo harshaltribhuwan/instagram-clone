@@ -5,3 +5,4 @@
 ## Tailwind-css for styling web-application.
 ## Firebase as a back-end.
 ## Used Faker.js for the fake public data.
+ 
